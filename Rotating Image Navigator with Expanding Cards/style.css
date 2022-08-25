@@ -21,7 +21,7 @@ body {
     overflow: hidden;
 }
 
-/* ============================================================  */
+/* ===========================================================  */
 
 img {
     width: 100%;
@@ -46,7 +46,7 @@ img {
     background-size: cover;
     flex: 1;
     transition: flex .6s ease-in;
-    cursor: pointer;
+    /* cursor: pointer; */
 }
 
 .card.active-card {
